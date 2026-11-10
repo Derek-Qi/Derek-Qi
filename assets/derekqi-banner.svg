@@ -1,40 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
-  <title id="title">Derek Qi — Research, Engineering, AI</title>
-  <desc id="desc">A midnight navy banner with a DQ monogram, restrained cyan and blue accents, and an abstract network diagram.</desc>
-  <rect width="1600" height="420" rx="24" fill="#0B1220"/>
-  <g stroke="#9AB2CC" stroke-width="1" opacity="0.075">
-    <path d="M64 0V420 M144 0V420 M224 0V420 M304 0V420 M384 0V420 M464 0V420 M544 0V420 M624 0V420 M704 0V420 M784 0V420 M864 0V420 M944 0V420 M1024 0V420 M1104 0V420 M1184 0V420 M1264 0V420 M1344 0V420 M1424 0V420 M1504 0V420"/>
-    <path d="M0 60H1600 M0 140H1600 M0 220H1600 M0 300H1600 M0 380H1600"/>
-  </g>
-  <rect x="72" y="74" width="5" height="272" rx="2.5" fill="#54D6E8"/>
-  <text x="112" y="268" fill="#F1F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="190" font-weight="700" letter-spacing="-13">DQ</text>
-  <path d="M424 106V314" stroke="#29445F" stroke-width="2"/>
-  <text x="474" y="192" fill="#EAF2FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="40" font-weight="650" letter-spacing="2.5">RESEARCH / ENGINEERING / AI</text>
-  <text x="477" y="247" fill="#9CB2C9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19" font-weight="500" letter-spacing="2.2">COMPUTER SCIENCE · MACHINE LEARNING · SYSTEMS</text>
-  <text x="477" y="302" fill="#64819F" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="500" letter-spacing="2.4">BUILD WITH EVIDENCE. DESIGN FOR REPRODUCIBILITY.</text>
-  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <circle cx="1330" cy="210" r="142" stroke="#24415E" stroke-width="1.5"/>
-    <circle cx="1330" cy="210" r="102" stroke="#1D3852" stroke-width="1.5"/>
-    <circle cx="1330" cy="210" r="62" stroke="#1D3852" stroke-width="1.5"/>
-    <path d="M1196 275L1268 178L1330 226L1404 116L1482 185" stroke="#3F8FEA" stroke-width="2.5" opacity="0.9"/>
-    <path d="M1210 126L1270 178L1362 292L1450 250L1500 300" stroke="#45C8D8" stroke-width="2" opacity="0.8"/>
-    <path d="M1268 178L1404 116L1450 250" stroke="#477EA8" stroke-width="1.5" opacity="0.65"/>
-    <path d="M1196 275L1362 292L1482 185" stroke="#477EA8" stroke-width="1.5" opacity="0.65"/>
-  </g>
-  <g fill="#54D6E8">
-    <circle cx="1210" cy="126" r="5"/>
-    <circle cx="1268" cy="178" r="7"/>
-    <circle cx="1330" cy="226" r="6"/>
-    <circle cx="1362" cy="292" r="5"/>
-    <circle cx="1450" cy="250" r="6"/>
-  </g>
-  <g fill="#5B9DF1">
-    <circle cx="1196" cy="275" r="5"/>
-    <circle cx="1404" cy="116" r="6"/>
-    <circle cx="1482" cy="185" r="5"/>
-    <circle cx="1500" cy="300" r="4"/>
-  </g>
-  <circle cx="1330" cy="210" r="3" fill="#EAF2FC"/>
-  <path d="M72 378H1528" stroke="#23364B" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="460" viewBox="0 0 1600 460" role="img" aria-labelledby="title desc">
+<title id="title">Derek Qi — research and engineering</title>
+<desc id="desc">A dark blue banner with a scientific plot and a segmented disk map, connecting research and engineering.</desc>
+<rect width="1600" height="460" fill="#0b1b2a"/>
+<path d="M0 342H1600" stroke="#365063"/>
+<path d="M88 63H1512" stroke="#365063"/>
+<text x="90" y="115" font-family="Arial,sans-serif" font-size="19" letter-spacing="4" fill="#8db9c5">RESEARCH / ENGINEERING</text>
+<text x="84" y="235" font-family="Arial,sans-serif" font-size="106" font-weight="700" letter-spacing="-3" fill="#f3f7f5">Derek Qi</text>
+<text x="90" y="291" font-family="Arial,sans-serif" font-size="27" fill="#b8d0d4">From scientific data to working systems.</text>
+<text x="90" y="393" font-family="Arial,sans-serif" font-size="18" letter-spacing="2" fill="#9ab8bf">MACHINE LEARNING</text>
+<text x="425" y="393" font-family="Arial,sans-serif" font-size="18" letter-spacing="2" fill="#9ab8bf">SOFTWARE SYSTEMS</text>
+<path d="M735 88V300 M735 300H1030" stroke="#54727e" stroke-width="2" fill="none"/>
+<path d="M760 271L815 250L870 225L925 195L980 159L1020 136" stroke="#77c7c5" stroke-width="4" fill="none"/>
+<path d="M760 284L815 269L870 240L925 222L980 177L1020 163 M760 253L815 232L870 209L925 175L980 143L1020 116" stroke="#477c87" stroke-width="2" fill="none"/>
+<g fill="#e7c183"><circle cx="786" cy="268" r="5"/><circle cx="830" cy="237" r="5"/><circle cx="883" cy="231" r="5"/><circle cx="940" cy="185" r="5"/><circle cx="992" cy="166" r="5"/></g>
+<g transform="translate(1240 199)" fill="none">
+<circle r="123" stroke="#24485a" stroke-width="29"/>
+<circle r="123" stroke="#77c7c5" stroke-width="29" stroke-dasharray="122 651" transform="rotate(-90)"/>
+<circle r="123" stroke="#b7d2cf" stroke-width="29" stroke-dasharray="80 693" stroke-dashoffset="-135" transform="rotate(-90)"/>
+<circle r="123" stroke="#e7c183" stroke-width="29" stroke-dasharray="66 707" stroke-dashoffset="-228" transform="rotate(-90)"/>
+<circle r="86" stroke="#3c6270" stroke-width="1"/>
+<path d="M-51 0H51 M0 -51V51" stroke="#3c6270"/>
+<circle r="5" fill="#b7d2cf"/>
+</g>
+<text x="735" y="393" font-family="Arial,sans-serif" font-size="17" letter-spacing="2" fill="#9ab8bf">MEASURE</text>
+<text x="1158" y="393" font-family="Arial,sans-serif" font-size="17" letter-spacing="2" fill="#9ab8bf">BUILD &amp; VERIFY</text>
 </svg>

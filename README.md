@@ -1,59 +1,46 @@
-<div align="center">
-  <img src="./assets/derekqi-banner.svg" alt="DQ monogram with a network motif representing research, engineering, and AI" width="100%" />
-</div>
+<img src="./assets/derekqi-banner.svg" alt="Derek Qi — research and engineering, from data to systems" width="100%" />
 
-<h1 align="center">Derek Qi</h1>
+# Derek Qi
 
-<p align="center">
-  Computer Science undergraduate at Liaoning Normal University<br />
-  <a href="https://derekqi.com/">Personal website</a>
-</p>
+Computer Science undergraduate at Liaoning Normal University · [Personal website](https://derekqi.com/)
 
----
+I work across machine learning and systems, turning questions into software that can be inspected and tested. I care about how results are evaluated, where they fail, and what an implementation actually guarantees.
 
-## About
-
-I enjoy turning research questions into software that can be inspected, tested, and reproduced. My work brings together machine learning, scientific data, and systems engineering, with an emphasis on transparent evaluation and reliable implementation.
-
-I also explore practical AI systems and agent-assisted developer workflows.
-
-## Research interests
-
-- Machine learning for scientific and materials data
-- Uncertainty quantification and model reliability
-- Human motion analysis and action quality assessment *(exploratory)*
-- AI systems and developer tooling
-
-## Selected projects
+## Selected work
 
 ### [MaterialSense](https://github.com/Derek-Qi/MaterialSense-public)
 
-A research and educational project for predicting concrete compressive strength from ingredient quantities and curing age.
+**Materials data · machine learning · uncertainty**
 
-- Group-aware evaluation on the UCI Concrete Compressive Strength dataset (1,030 observations).
-- Ten recorded grouped resplits: **MAE 4.157 ± 0.609 MPa** and **RMSE 5.641 ± 0.788 MPa**. These describe split-to-split variability, not independent material experiments or confidence intervals.
-- Includes prediction intervals, novelty warnings, ablation analysis, and documented failure cases.
-- Research/education only: it is not validated for engineering design, and cross-source assessment remains exploratory rather than formal harmonized external validation.
+An AI-assisted research and education project predicting concrete compressive strength from mixture ingredients and curing age.
+
+[![MaterialSense explorer interface](https://raw.githubusercontent.com/Derek-Qi/MaterialSense-public/main/reports/explorer-desktop.png)](https://github.com/Derek-Qi/MaterialSense-public)
+
+The study uses the UCI Concrete Compressive Strength dataset (1,030 observations) and groups repeated mixture formulations during evaluation. Across ten recorded grouped resplits, MAE was **4.157 ± 0.609 MPa** and RMSE **5.641 ± 0.788 MPa**. These are split-to-split variations, not confidence intervals or independent material experiments.
+
+Prediction intervals, novelty warnings, ablations and failure cases are documented in the repository. Cross-source assessment is exploratory; the project is **not validated for engineering design**.
 
 ### [FAT12 Disk Lab](https://github.com/Derek-Qi/FAT12-Disk-Lab)
 
-A byte-level workbench for inspecting and safely modifying FAT12 disk images.
+**Filesystem internals · verification · local tools**
 
-- Implements allocation analysis, deterministic compaction previews, hash-bound write plans, snapshot-protected persistence, and recovery.
-- Uses a Python filesystem engine with a local React interface.
-- Fixed-seed experiments reduced file extents from **33 to 23** in two ordinary layouts while preserving file-content and metadata hashes. These are layout-preservation results, not disk-speed benchmarks.
+An AI-assisted educational workbench for inspecting and modifying FAT12 disk images, with a Python engine and local React interface.
 
-## How I work
+[![FAT12 Disk Lab allocation interface](https://raw.githubusercontent.com/Derek-Qi/FAT12-Disk-Lab/main/artifacts/screenshots/allocation-ui.png)](https://github.com/Derek-Qi/FAT12-Disk-Lab)
 
-- Reproducible experiments over one-off demos
-- Evidence and explicit limitations over inflated claims
-- Tests, verification, and inspectable implementation
-- Safe defaults and recoverable operations
+The workbench combines allocation analysis, deterministic compaction previews, hash-bound write plans and snapshot-based recovery. In fixed-seed experiments on two ordinary layouts, file extents fell from **33 to 23**, while content and metadata hashes were preserved. This is a layout result, not a disk-speed benchmark. It is a teaching tool, not a complete operating system or a power-fail-safe filesystem.
 
-## Current explorations
+## Research interests
 
-I am exploring temporal human-pose representations for action quality assessment, alongside reusable AI-agent workflows for more reliable software development.
+- **Reliable learning:** grouped evaluation, uncertainty and model behavior under distribution shift
+- **Scientific data:** machine learning for materials and physical measurements
+- **Human motion:** temporal pose representations and action quality assessment *(exploratory)*
+- **Software systems:** inspectable tools, testing and AI-assisted development workflows
 
-## Working stack
+## Tools I use
 
-**Python** · **React** · **Streamlit** · **Git** · **GitHub Actions**
+**Research & data**　Python · Streamlit  
+**Interfaces & systems**　Python · React  
+**Development**　Git · GitHub Actions
+
+I value reproducible experiments, explicit limitations and verifiable implementation. The project links above contain the details and scope of each result.
