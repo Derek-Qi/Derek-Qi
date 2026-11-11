@@ -1,14 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="460" viewBox="0 0 1600 460" role="img" aria-labelledby="title desc">
 <title id="title">Derek Qi — research and engineering</title>
-<desc id="desc">A dark blue banner with a scientific plot and a segmented disk map, connecting research and engineering.</desc>
+<desc id="desc">A dark blue banner with an illustrative plot and segmented disk motif, connecting research and engineering.</desc>
 <rect width="1600" height="460" fill="#0b1b2a"/>
 <path d="M0 342H1600" stroke="#365063"/>
 <path d="M88 63H1512" stroke="#365063"/>
-<text x="90" y="115" font-family="Arial,sans-serif" font-size="19" letter-spacing="4" fill="#8db9c5">RESEARCH / ENGINEERING</text>
+<text x="90" y="115" font-family="Arial,sans-serif" font-size="24" letter-spacing="3" fill="#8db9c5">RESEARCH / ENGINEERING</text>
 <text x="84" y="235" font-family="Arial,sans-serif" font-size="106" font-weight="700" letter-spacing="-3" fill="#f3f7f5">Derek Qi</text>
-<text x="90" y="291" font-family="Arial,sans-serif" font-size="27" fill="#b8d0d4">From scientific data to working systems.</text>
-<text x="90" y="393" font-family="Arial,sans-serif" font-size="18" letter-spacing="2" fill="#9ab8bf">MACHINE LEARNING</text>
-<text x="425" y="393" font-family="Arial,sans-serif" font-size="18" letter-spacing="2" fill="#9ab8bf">SOFTWARE SYSTEMS</text>
+<text x="90" y="291" font-family="Arial,sans-serif" font-size="32" fill="#b8d0d4">From scientific data to working systems.</text>
+<text x="90" y="398" font-family="Arial,sans-serif" font-size="26" fill="#b8d0d4">Machine learning  ·  Software systems</text>
 <path d="M735 88V300 M735 300H1030" stroke="#54727e" stroke-width="2" fill="none"/>
 <path d="M760 271L815 250L870 225L925 195L980 159L1020 136" stroke="#77c7c5" stroke-width="4" fill="none"/>
 <path d="M760 284L815 269L870 240L925 222L980 177L1020 163 M760 253L815 232L870 209L925 175L980 143L1020 116" stroke="#477c87" stroke-width="2" fill="none"/>
@@ -22,6 +21,5 @@
 <path d="M-51 0H51 M0 -51V51" stroke="#3c6270"/>
 <circle r="5" fill="#b7d2cf"/>
 </g>
-<text x="735" y="393" font-family="Arial,sans-serif" font-size="17" letter-spacing="2" fill="#9ab8bf">MEASURE</text>
-<text x="1158" y="393" font-family="Arial,sans-serif" font-size="17" letter-spacing="2" fill="#9ab8bf">BUILD &amp; VERIFY</text>
+<text x="1010" y="398" font-family="Arial,sans-serif" font-size="26" fill="#b8d0d4">Measure  ·  Build  ·  Verify</text>
 </svg>
