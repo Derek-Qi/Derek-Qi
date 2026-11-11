@@ -1,4 +1,4 @@
-<img src="./assets/derekqi-banner.svg" alt="Derek Qi — research and engineering, from data to systems" width="100%" />
+<img src="./assets/derekqi-animated.gif" alt="Derek Qi — research and engineering. Exploring data, building tools, and testing ideas." width="100%" />
 
 # Derek Qi
 
