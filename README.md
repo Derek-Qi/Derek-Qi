@@ -6,6 +6,20 @@ Computer Science undergraduate at Liaoning Normal University · [Personal websit
 
 I work across machine learning and systems, turning questions into software that can be inspected and tested. I care about how results are evaluated, where they fail, and what an implementation actually guarantees.
 
+## A little about me
+
+```python
+derek = {
+    "role": "CS undergraduate",
+    "interests": ["machine learning", "scientific data", "systems"],
+    "exploring": ["human motion analysis", "AI-assisted workflows"],
+    "tools": ["Python", "React", "Streamlit", "Git"],
+    "approach": "build, evaluate, document",
+}
+```
+
+<img src="./assets/research-to-systems.gif" alt="A moving dot connects Explore, Build, Evaluate and Refine." width="100%" />
+
 ## Selected work
 
 ### [MaterialSense](https://github.com/Derek-Qi/MaterialSense-public)
@@ -36,11 +50,5 @@ The workbench combines allocation analysis, deterministic compaction previews, h
 - **Scientific data:** machine learning for materials and physical measurements
 - **Human motion:** temporal pose representations and action quality assessment *(exploratory)*
 - **Software systems:** inspectable tools, testing and AI-assisted development workflows
-
-## Tools I use
-
-**Research & data**　Python · Streamlit  
-**Interfaces & systems**　Python · React  
-**Development**　Git · GitHub Actions
 
 I value reproducible experiments, explicit limitations and verifiable implementation. The project links above contain the details and scope of each result.
