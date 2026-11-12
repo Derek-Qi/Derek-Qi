@@ -7,6 +7,12 @@ Computer Science undergraduate at Liaoning Normal University
 
 I work across machine learning and systems, turning questions into software that can be inspected and tested. I care about how results are evaluated, where they fail, and what an implementation actually guarantees.
 
+## Selected publication
+
+[Multimodal Counterfactual Fusion with Causality-Guided Contrastive Learning for Noise-Robust Recommendation](https://doi.org/10.3390/fi18100551) · *Future Internet*, 2026
+
+Fourth author (published as Derui Qi). My contributions included validation, investigation, resources, data curation, and review and editing. This work included data preprocessing and feature preparation, statistical summaries of five-seed results and robustness comparison checks, literature review, and manuscript review.
+
 ## Selected work
 
 ### [MaterialSense](https://github.com/Derek-Qi/MaterialSense-public)
