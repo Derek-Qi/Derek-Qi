@@ -45,7 +45,7 @@ A student team prototype exploring navigation prompts and object finding for peo
 
 [<img src="./assets/assistive-glasses-assembly.webp" alt="Electronics assembled for the assistive glasses prototype" width="720" />](https://derekqi.com/projects/zhixing-jingling/)
 
-I assembled and soldered the electronics, reworked a cold solder joint, debugged software–hardware connections, and flashed firmware. Basic functions were demonstrated mainly with recorded-video input. The project has no reported field-study, navigation-reliability or latency benchmark. [Explore the project case study](https://derekqi.com/projects/zhixing-jingling/)
+I assembled and soldered the electronics, debugged software–hardware connections, and flashed firmware. With help from a soldering community and AI tools, I identified and reworked a cold solder joint. Basic functions were demonstrated mainly with recorded-video input. The project has no reported field-study, navigation-reliability or latency benchmark. [Explore the project case study](https://derekqi.com/projects/zhixing-jingling/)
 
 ## What I am exploring
 
